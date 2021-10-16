@@ -37,4 +37,12 @@ Here are some ideas to get you started:-->
       
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiruniArunoda&theme=radical&layout=compact&exclude_repo=RASA-vehicle-service-management-system)](https://github.com/yasithWimukthi/github-readme-stats)  
+
+![Hiruni's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiruniArunoda&show_icons=true&theme=radical&custom_title=Hiruni's%20github%20activity%20graph)
+
+
+ 
+
+
 
