@@ -9,7 +9,7 @@ Here are some ideas to get you started:-->
 
 - 🌱 I’m currently learning Vuejs and Angular
 - 👯 I’m looking to collaborate on any open source MERN projects
-- 📫 How to reach me: Email - arunoda749@gmail.com Linkedin - https://www.linkedin.com/in/hirudumini/ 
+- 📫 How to reach me: ✨Email - arunoda749@gmail.com ✨Linkedin - https://www.linkedin.com/in/hirudumini/ 
 
 
 <h3 align="left">Languages and Tools:</h3>
