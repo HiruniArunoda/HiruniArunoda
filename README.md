@@ -40,6 +40,10 @@ Here are some ideas to get you started:-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiruniArunoda&theme=radical&layout=compact&exclude_repo=Farm-Management-Pro)](https://github.com/HiruniArunoda/github-readme-stats)                       
  -->
+ 
+ <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiruniArunoda&theme=radical&layout=compact&exclude_repo=Farm-Management-Pro)](https://github.com/HiruniArunoda/github-readme-stats)                       
+ -->
+![Hiruni's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiruniArunoda&show_icons=true&theme=radical&custom_title=Hiruni's%20github%20activity%20graph)
 
 [![Hiruni's github activity graph](https://activity-graph.herokuapp.com/graph?username=HiruniArunoda&theme=react-dark&custom_title=Hiruni's%20Github%20Stats)](https://github.com/HiruniArunoda/github-readme-activity-graph)
 
